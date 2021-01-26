@@ -1,0 +1,1 @@
+ListeP add_headP(ListeP Lp,ListeI a);

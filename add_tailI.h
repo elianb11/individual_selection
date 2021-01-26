@@ -1,0 +1,1 @@
+ListeI add_tailI(ListeI Li, Bit b);

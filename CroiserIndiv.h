@@ -1,0 +1,1 @@
+void CroiserIndiv(ListeI Li1,ListeI Li2);

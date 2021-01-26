@@ -1,0 +1,1 @@
+ListeI copieIndiv(ListeI Li);

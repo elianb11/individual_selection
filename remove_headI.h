@@ -1,0 +1,1 @@
+ListeI remove_headI(ListeI Li);

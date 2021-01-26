@@ -1,0 +1,1 @@
+double CalcQual2(int q);

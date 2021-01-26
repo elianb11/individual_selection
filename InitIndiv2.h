@@ -1,0 +1,1 @@
+ListeI InitIndiv2(ListeI Li, int n);
